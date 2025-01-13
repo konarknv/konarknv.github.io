@@ -1,0 +1,58 @@
+ h1 {
+   text-align: center;
+   text-decoration: underline;
+   text-decoration-style: double;
+   color:  #34495e; 
+ }
+
+ h2 {
+   text-align: center;
+   text-decoration: underline;
+   text-decoration-style: double;
+   color:   #4a235a; 
+ }
+
+ h3{
+   text-align: center;
+   text-decoration: underline;
+ }
+ 
+.reveal pre code, .hljs {
+    background-color: rgba(0,0,0,0.1) !important;
+    background-opacity: 0.9;
+    color: #DCDCDC; 
+    padding: 5px;
+    overflow: auto;
+    max-height: 400px;
+    word-wrap: normal;
+}
+.reveal pre, .hljs {
+    box-shadow: none !important;
+}
+
+
+table {
+  border-collapse: collapse; /* Combine borders */
+  margin: 1em 0;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #000;  /* Solid black border, like LaTeX \hline */
+  padding: 0.5em 1em;
+  text-align: left;
+}
+
+thead tr {
+  border-bottom: 2px solid #000; /* Emulate a thicker top rule */
+}
+
+tbody tr:last-child {
+  border-bottom: 2px solid #000; /* Emulate a thicker bottom rule */
+}
+
+blockquote{
+  background-color: rgba(0,0,0,0.2) !important;
+  margin: 0;
+  padding: 0.5em;
+}

@@ -1,0 +1,12 @@
+body{
+  background-color: #b8b0ff;
+  background-image: url("https://www.transparenttextures.com/patterns/stardust.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+
+  margin-left: 10em;
+  margin-right: 10em;
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
+
+

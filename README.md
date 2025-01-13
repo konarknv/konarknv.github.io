@@ -1,1 +1,0 @@
-# konarknv.github.io
